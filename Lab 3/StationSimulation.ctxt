@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=StationSimulation
+comment1.params=min\ max
+comment1.target=int\ getRandomNumber(int,\ int)
+comment2.params=
+comment2.target=int\ getRandClassification()
+comment3.params=
+comment3.target=Vehicle\ generateVehicle()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment1.params=
+comment1.target=void\ setPlateID()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment11.params=obj
+comment11.target=boolean\ equals(java.lang.Object)
+comment2.params=
+comment2.target=java.lang.String\ getPlateID()
+comment3.params=classification
+comment3.target=void\ setVehicleClassification(int)
+comment4.params=length\ breadth\ width
+comment4.target=Vehicle(int,\ int,\ int)
+comment5.params=length\ breadth\ width\ classification
+comment5.target=Vehicle(int,\ int,\ int,\ int)
+comment6.params=vehicleClassification
+comment6.target=java.lang.String\ getVehicleClassification(int)
+comment7.params=
+comment7.target=int\ getVehicleClassification()
+comment8.params=
+comment8.target=int\ getTankCapacity()
+comment9.params=
+comment9.target=java.lang.String\ getFuelType()
+numComments=12
