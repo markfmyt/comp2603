@@ -44,7 +44,7 @@ public class StudentWindow extends javax.swing.JFrame {
         buttonGroup1.clearSelection();
         outputTextArea.setText("");
         programmeComboBox.setSelectedIndex(2);
-        fullTimeRadioButton.setSelected(true);
+        fullTimeRadioButton.setSelected(false);
     }
     /*The following classes is implementing Part 3 Task 1*/
     public String getFirstName(){return firstNameField.getText();}
