@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Plant
+comment0.text=\n\n\ @author\ phaedramohammed\n
+comment1.params=name\ price\ quantity
+comment1.target=Plant(java.lang.String,\ double,\ int)
+comment2.params=name
+comment2.target=Plant(java.lang.String)
+comment3.params=newName
+comment3.target=void\ setName(java.lang.String)
+comment4.params=newPrice
+comment4.target=void\ setPrice(double)
+comment5.params=updatedQuantity
+comment5.target=void\ setQuantity(int)
+comment6.params=
+comment6.target=double\ getPrice()
+comment7.params=
+comment7.target=java.util.ArrayList\ getPlantDetails()
+comment7.text=\ \ Returns\ an\ ArrayList\ containing\ the\ tokenised\ details\ of\ the\ Plant.\ \n\ \ \ The\ ArrayList\ is\ used\ for\ displaying\ plant\ data\ in\ the\ GreenHouseGUI.\n\ \ \ This\ method\ serves\ to\ decouple\ the\ GreenhouseGUI\ from\ the\ Plant\ class\n
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
