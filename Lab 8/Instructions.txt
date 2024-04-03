@@ -1,0 +1,17 @@
+Open NetBeans
+File > Open Project > Lab 8 Files (Open with NetBeans) > Open Project
+
+Then
+
+you will see LAB8 with a coffee sign i think, click the arrow next to it
+
+click Source Packages dropdown
+
+Then
+
+click lab8
+
+lab 8 isn't important for your lab exam, i'd skip the part where
+Mr.DR is designing the GUI if you're watching the recording and go straight
+to actionListeners and actionPerformed etc.
+

@@ -1,0 +1,15 @@
+Open NetBeans
+File > Open Project > Lab 9 Files (Open with NetBeans) > Open Project
+
+Then
+
+you will see LAB9 with a coffee sign i think, click the arrow next to it
+
+click Source Packages dropdown
+
+Then
+
+click <default package>
+
+and you're done enjoy, this lab is very important for your lab exam
+also lab 8 (the lab before this lab) is not so important for your lab exam
