@@ -54,10 +54,6 @@ flask run
 
 ## Routes
 
-1. <u>/</u> \[GET\]: Renders the home page.
-
-2. <u>/get_usernames</u> \[GET\]: Returns a list of usernames.
-
 3. <u>/chat</u> \[GET\]: Renders the chat page.
 
 4. <u>/chat/&lt;room_name&gt;</u> \[GET\]: Renders the chat room with the specified room name.
