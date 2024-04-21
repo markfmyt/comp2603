@@ -52,14 +52,6 @@ flask run
 
 </details>
 
-## Snippets
-
-Home Page<br/>
-![Screenshot 1](https://i.imgur.com/2LgVMzn.png)
-
-Main Screen<br/>
-![Video snippet](assets/snippets/snippet2.gif)
-
 ## Routes
 
 1. <u>/</u> \[GET\]: Renders the home page.
@@ -77,3 +69,11 @@ Main Screen<br/>
 7. <u>/chat/&lt;room_name&gt;</u> \[PUT\]: Updates the name of the specified chat room.
 
 8. <u>/chat/&lt;room_name&gt;</u> \[DELETE\]: Deletes the specified chat room.
+
+## Snippets
+
+Home Page<br/>
+![Screenshot 1](https://i.imgur.com/2LgVMzn.png)
+
+Main Screen<br/>
+![Video snippet](assets/snippets/snippet2.gif)
