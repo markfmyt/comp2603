@@ -60,18 +60,20 @@ Home Page<br/>
 Main Screen<br/>
 ![Video snippet](assets/snippets/snippet2.gif)
 
-1. <u>/</u> (GET): Renders the home page.
+## Routes
 
-2. <u>/get_usernames</u> (GET): Returns a list of usernames.
+1. <u>/</u> \[GET\]: Renders the home page.
 
-3. <u>/chat</u> (GET): Renders the chat page.
+2. <u>/get_usernames</u> \[GET\]: Returns a list of usernames.
 
-4. <u>/chat/&lt;room_name&gt;</u> (GET): Renders the chat room with the specified room name.
+3. <u>/chat</u> \[GET\]: Renders the chat page.
 
-5. <u>/chat/&lt;room_name&gt;/add_member</u> (POST): Adds a user to the specified chat room.
+4. <u>/chat/&lt;room_name&gt;</u> \[GET\]: Renders the chat room with the specified room name.
 
-6. <u>/chat/&lt;room_name&gt;</u> (POST): Creates a new chat room with the specified name.
+5. <u>/chat/&lt;room_name&gt;/add_member</u> \[POST\]: Adds a user to the specified chat room.
 
-7. <u>/chat/&lt;room_name&gt;</u> (PUT): Updates the name of the specified chat room.
+6. <u>/chat/&lt;room_name&gt;</u> \[POST\]: Creates a new chat room with the specified name.
 
-8. <u>/chat/&lt;room_name&gt;</u> (DELETE): Deletes the specified chat room.
+7. <u>/chat/&lt;room_name&gt;</u> \[PUT\]: Updates the name of the specified chat room.
+
+8. <u>/chat/&lt;room_name&gt;</u> \[DELETE\]: Deletes the specified chat room.
